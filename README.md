@@ -8,7 +8,7 @@
 5. [Contributing](#Contributing)
 
 
-## ABOUT THE PROJECT
+## About the project
 This Habit Tracker App is designed to help you keep track of your self-set goals. Activities that are to become regular daily or weekly habits can be created and evaluated.
 
 Depending on whether you want to establish daily or weekly habits, once you have completed the activity with conviction and motivation, you can check it off in the app as 'successfully completed'. With the app you can always keep track of the daily/weekly goals you have set yourself, analyse them individually or display an overview. If you don't miss a day (for daily habits) or a week (for weekly habits) and tick off the task accordingly, you generate so-called streaks, which are also evaluated.

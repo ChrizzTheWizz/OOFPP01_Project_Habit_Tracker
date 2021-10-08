@@ -1,6 +1,3 @@
-# OOFPP01_Project_Habit_Tracker
-
-
 # Project: HabitTracker
 
 ## Table of Contents

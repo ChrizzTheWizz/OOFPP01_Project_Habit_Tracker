@@ -28,7 +28,7 @@ You can download the latest version of Python [here](https://www.python.org/down
 
 **Packages:**
 * [questionary](https://github.com/tmbo/questionary) (install via "pip install questionary")
-* [tabulate](https://github.com/astanin/python-tabulate) (install via "pip install tabulate)
+* [tabulate](https://github.com/astanin/python-tabulate) (install via "pip install tabulate")
 
 
 ## Installation

@@ -137,7 +137,6 @@ def main():
             # if user wants to create a new habit: asking for attributes, initialize habit and return confirmation
             # habit attributes contain: name, specification and periodicity
             habit_attributes = display.user_input_habit_attr(habits.list_habit_instances)
-            print(type(habit_attributes))
             # ask for confirmation
             answer_confirmation = display.confirmation("Do you want to create this new habit?\n"
                                                        f"Name:            {habit_attributes[0]}\n"

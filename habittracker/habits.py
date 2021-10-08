@@ -240,8 +240,8 @@ class Habit:
         # if check-off for the period still possible!
         # for daily habits: last date entry is more than two days ago
         # for weekly habits: last date entry is more than two weeks (14 days) ago
-        elif (current_day.date() - df_last_date <= timedelta(2) and self.period == "D") or \
-                (current_day.date() - df_last_date <= timedelta(14) and self.period == "7d"):
+        elif (current_day.date() - df_last_date < timedelta(2) and self.period == "D") or \
+                (current_day.date() - df_last_date < timedelta(14) and self.period == "7d"):
             # return appropriate status
             status = f"Habit {self.name}: No auto-update needed - already checked-off or " \
                      f"check-off for only running period still possible!"

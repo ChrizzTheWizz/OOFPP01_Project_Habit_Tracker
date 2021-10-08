@@ -195,7 +195,7 @@ def main():
 
         elif step_main == "Instructions":
             # if user wants to read the instructions (readme.txt)
-            with open(f"{os.path.normpath(os.getcwd() + os.sep)}/readme.txt", "r") as file:
+            with open(f"{os.path.normpath(os.getcwd() + os.sep)}/readme.md", "r") as file:
                 readme = file.read()
             display.clear()
             print(readme)

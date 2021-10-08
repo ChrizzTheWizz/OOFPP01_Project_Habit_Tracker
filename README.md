@@ -27,8 +27,11 @@ This app was written in Python. Make sure you have Python 3.7+ installed on your
 You can download the latest version of Python [here](https://www.python.org/downloads/). 
 
 **Packages:**
-* [questionary](https://github.com/tmbo/questionary) (install via "pip install questionary")
+* [numpy](https://numpy.org) (install via "pip install numpy")
+* [pandas](https://pandas.pydata.org/about/index.html) (install via "pip install pandas")
 * [tabulate](https://github.com/astanin/python-tabulate) (install via "pip install tabulate")
+* [pytz](https://pypi.org/project/pytz/) (install via "pip install pytz")
+* [questionary](https://github.com/tmbo/questionary) (install via "pip install questionary")
 
 
 ## Installation

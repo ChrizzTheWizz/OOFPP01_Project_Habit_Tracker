@@ -35,14 +35,23 @@ You can download the latest version of Python [here](https://www.python.org/down
 
 **How To:**<br>
 The easiest way to use this app is to download the following files:
+
 /bin/config.txt
+
 /habittracker/__init__.py
+
 /habittracker/analyze.py
+
 /habittracker/display.py
+
 /habittracker/habits.py
+
 /habittracker/main.py
+
 /habittracker/rand_habits.py
+
 /habittracker.py
+
 /readme.md
 
 Make sure to keep the folder structure in place.

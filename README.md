@@ -43,6 +43,7 @@ The easiest way to use this app is to download the following files:
 /habittracker/main.py
 /habittracker/rand_habits.py
 /habittracker.py
+/readme.md
 
 Make sure to keep the folder structure in place.
 

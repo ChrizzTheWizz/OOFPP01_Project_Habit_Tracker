@@ -1,0 +1,4 @@
+Directory Documents:                docs
+Directory Habits:                   docs\habits
+Path File Habits Overview:          docs\habits_overview.json
+Version:                            Beta 1.0
